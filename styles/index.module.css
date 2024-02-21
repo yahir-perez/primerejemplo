@@ -1,0 +1,46 @@
+/* index.module.css */
+.container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: flex-end; /* Cambiamos a flex-end para que la barra esté en la parte derecha */
+    gap: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .navbar a {
+    cursor: pointer;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Agregamos un margen superior para separar el título de la barra de navegación */
+  }
+  /* index.module.css */
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-end; /* Cambiamos a flex-end para que la barra esté en la parte derecha */
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  cursor: pointer;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Agregamos un margen superior para separar el título de la barra de navegación */
+}
